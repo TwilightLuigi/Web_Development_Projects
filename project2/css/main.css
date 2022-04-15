@@ -1,0 +1,43 @@
+body {
+	font-family: verdana, "sans serif";
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	color: gold;
+}
+
+header {
+	background-color: green;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 50px;
+}	
+
+footer {
+	background-color: green;
+	text-align: center;
+	margin-top: 40px;
+}
+
+main {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+main ul li {
+	list-style-type: square;
+	text-indent: 3px;
+}	
+
+ 
+
+
+
+
+	
+	
+

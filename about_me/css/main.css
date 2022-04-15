@@ -1,0 +1,61 @@
+header {
+	background-color: yellow;
+	text-align: center;
+}
+nav { 
+	background-color: #ff8080;
+	
+}
+main {
+	background-color: pink;
+	width: 60%;
+	float: left;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+aside {
+	background-color: rgb(255,77,255);
+	width: 30%;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+footer {
+	background-color: grey;
+	text-align: center;
+}
+a { 
+	text-decoration: none;
+}
+main h2 {
+	color: green;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline;
+	text-decoration: none;
+	text-align: center;
+}
+aside ul li {
+	list-style-type: square;
+}
+footer {
+	clear: both;
+}
+body {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: 'Kodchasan', sans-serif;
+}
+main img{ 
+float: left;
+}
+
+
+		
+
+
+

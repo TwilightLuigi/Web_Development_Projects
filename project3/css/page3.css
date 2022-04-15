@@ -1,0 +1,37 @@
+#mepic:hover {
+	-webkit-transform: rotate(70deg) scale(2, 3);
+	transition: 2s;
+}
+
+#team {
+	filter: grayscale(100%);
+}
+
+p {
+	background-color: gray;
+}
+
+body {
+	font-family: 'Righteous' , cursive;
+}
+
+a.active {
+	color: white;
+}
+
+nav ul {
+  display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	list-style-type: none;
+	padding-right: 10%;
+	background-color: #ff6666;
+}
+
+@media only screen and (max-width: 480px) {
+	nav ul{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	}
+}

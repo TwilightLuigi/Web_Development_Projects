@@ -1,0 +1,10 @@
+main {
+	column-count: 3;
+	column-gap: 30px;
+	column-rule: 4px solid green;
+}	
+
+h2:first-of-type{
+	margin-top:-4px;
+}
+	

@@ -1,0 +1,40 @@
+h1{
+	background-color: green;
+	color: gold;
+	text-align:center;
+	margin-top: 0px;
+	margin-right: -71px;
+}
+
+h2{
+	text-align:center;
+	color: green;
+}
+
+footer{
+	text-align:center;
+	color: gold;
+	background-color: green;
+	margin-right: -71px;
+}
+
+form {
+	text-align: center;	
+}
+
+fieldset{
+	width:60%;
+	margin:5px 0;
+	vertical-align:middle;
+	text-align:left; 
+	border: 0;
+	margin-left: 655px;
+}
+
+input{
+	margin-bottom: 10px;
+}
+
+span{
+	color: red;
+}

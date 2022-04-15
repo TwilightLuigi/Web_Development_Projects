@@ -1,0 +1,39 @@
+header {
+	background-color: black;
+	padding: 10px 20px;
+	display: flex;
+	justify-content: space-between;
+	color: white;
+}
+
+footer {
+	text-align:center;
+	background-color: blue;
+	clear: both;
+	color:white;
+	background-color: black;
+}
+
+main {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+figure {
+	flex-basis: 150px;
+	background-color: grey;
+	display:flex; 
+	flex-wrap: wrap;
+	height: 15%;
+	align-items: center;
+}
+
+a:link {
+	text-decoration:none;
+}
+
+
+
+	

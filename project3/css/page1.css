@@ -1,0 +1,42 @@
+main img {
+	margin-right: 50%;		
+	padding-top: 10%;
+}
+
+ul {
+	margin-top: 5%;
+	padding-left: 0%;
+	margin-left: -12%;
+	background-color: #ff6666;
+	padding-right: 10%;
+}
+
+ul li {
+	margin-bottom: 10%;	
+}
+	
+figure {
+	background-color: #ff6666;
+}
+
+footer {
+	margin-top: 7.6%;
+}
+
+p {
+	background-color: #ff6666;
+}
+
+body {
+	background-color: grey;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+@media only screen and (max-width: 480px) {
+	nav ul{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	}
+}
+	

@@ -1,0 +1,57 @@
+header {
+
+	text-align: center;
+}
+
+main {
+	
+	width: 60%;
+	float: none;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+aside {
+	
+	width: 30%;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+footer {
+
+	text-align: center;
+}
+a { 
+	text-decoration: none;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline;
+	text-decoration: none;
+	text-align: center;
+}
+aside ul li {
+	list-style-type: square;
+}
+footer {
+	clear: both;
+}
+body {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: 'Times New Roman' , sans-serif;
+	
+}
+main img{ 
+float: none;
+}
+
+
+		
+
+
+

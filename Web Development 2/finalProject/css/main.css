@@ -1,0 +1,49 @@
+h1{
+	text-align: center;
+	color: yellow;	
+}
+
+body{
+	margin-top: 0px;
+}
+
+header{
+	/*background-image: url("../images/background.jpg");*/
+	background-size: 1000x;
+	width: 1550px;
+	height: 600x;
+	clear: both;
+	margin-top: -22px;
+	margin-left: auto;
+	margin-bottom: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	list-style-type: none;
+	padding-right: 10%;
+	background-color: yellow;
+	
+}
+
+nav input{
+	margin-top: 0px;
+}
+
+
+aisde{
+	display: flex;
+	flex-direction: column; 
+	 float: left;
+}
+
+
+
+select {
+	
+}
